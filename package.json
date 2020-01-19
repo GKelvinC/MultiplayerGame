@@ -1,0 +1,25 @@
+{
+  "name": "1st-realese",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GKelvinC/MultiplayerGame.git"
+  },
+  "author": "Kelvin Gonçalves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GKelvinC/MultiplayerGame/issues"
+  },
+  "homepage": "https://github.com/GKelvinC/MultiplayerGame#readme"
+}
